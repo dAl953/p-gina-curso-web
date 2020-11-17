@@ -1,0 +1,102 @@
+body{
+	background-color: #ff8c69;
+}
+
+.fila{
+	border: 2px solid blue;
+}
+
+.columna{
+	border: 2px dotted red;
+
+}
+       /* NAV */
+.logo{
+	width: 157px;
+	height: 163px;
+}
+
+.menu{
+	background-color: #ff8c69;
+}
+
+.banner{
+	width: 1111px;
+	height: 268px;
+}
+
+.item{
+	font-size: 20px;
+}
+     /* article #1 */
+.muestra{
+	width: 214px;
+	height: 164px;
+	padding: 5px;
+}
+
+.tittle{
+	color: green;
+}
+
+ /* article #2 */
+.product{
+	width: 275;
+	height: 365px;
+	padding: 10px;
+	background-color: white;
+	border: 1px solid black;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.productos{
+	width: 192px;
+	height: 175px;
+}
+
+/* pie de página */
+
+.piedepagina{
+	width: 1200;
+	height: auto;
+	background-color: rgba(0, 0, 0,.2);
+	box-shadow: 0 5px 15px rgba(0, 0, 0,.5);
+}
+
+
+.texto{
+	color: black;
+	font-size: 30px;
+	font-family: 'Maven Pro', sans-serif;
+}
+
+h5{
+	font-family: 'Maven Pro', sans-serif;
+}
+
+.name{
+	color: indigo;
+}
+
+
+.logopie{
+	width: 160px;
+	height: 140px;
+	margin-left: 25%;
+}
+
+.redes{
+	width: 65px;
+	height: 65px;
+	box-shadow: 0 5px 15px rgba(0, 0, 0,.5);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.danny{
+	width: 300px;
+	height: 300px;
+}
